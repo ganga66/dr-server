@@ -1,0 +1,14 @@
+{
+  "name": "dr-server",
+  "version": "1.0.0",
+  "description": "json server for dr listing",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "author": "ganga",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
